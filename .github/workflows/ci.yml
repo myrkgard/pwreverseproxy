@@ -16,7 +16,7 @@ jobs:
         uses: mr-smithers-excellent/docker-build-push@v5
         with:
           image: pwreverseproxy
-          tags: [latest]
+          tags: latest
           registry: ghcr.io
           username: myrkgard
           password: ${{ secrets.GITHUB_TOKEN }}
