@@ -1,3 +1,5 @@
+[![Build status](https://github.com/myrkgard/pwreverseproxy/actions/workflows/ci.yml/badge.svg)](https://github.com/myrkgard/pwreverseproxy/actions/workflows/ci.yml)
+
 # Reverse Proxy for Personal Website
 
 Nginx reverse proxy
